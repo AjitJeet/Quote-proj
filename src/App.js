@@ -17,9 +17,9 @@ function App() {
 }
 
 //event call
-document.getElementById("btn").addEventListener(
-    "click",
-    getColor
+ document.getElementById("btn").addEventListener(
+     "click",
+     getColor
 )
 
 
